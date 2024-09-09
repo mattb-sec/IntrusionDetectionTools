@@ -142,8 +142,7 @@ Overall, this lab was a good refresher for SimSpace, and it was informative to h
 
 - <a href="https://portswigger.net/burp" target="_blank">Burp Suite - Application Security Testing Software</a>
 
-- <a href="https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html" target="_blank">
-FLARE VM: The Windows Malware Analysis Distribution You've Always Needed! - FireEye</a>
+- <a href="https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html" target="_blank"> FLARE VM: The Windows Malware Analysis Distribution You've Always Needed! - FireEye</a>
 
 - <a href="https://en.wikipedia.org/wiki/Maltego" target="_blank">Maltego - Wikipedia</a>
 
