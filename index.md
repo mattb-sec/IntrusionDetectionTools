@@ -138,18 +138,18 @@ Overall, this lab was a good refresher for SimSpace, and it was informative to h
 
 # References
 
-<a href="https://www.brimsecurity.com/" target="_blank">BRIM</a>
+- <a href="https://www.brimsecurity.com/" target="_blank">BRIM</a>
 
-<a href="https://portswigger.net/burp" target="_blank">Burp Suite - Application Security Testing Software</a>
+- <a href="https://portswigger.net/burp" target="_blank">Burp Suite - Application Security Testing Software</a>
 
-<a href="https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html" target="_blank">
+- <a href="https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html" target="_blank">
 FLARE VM: The Windows Malware Analysis Distribution You've Always Needed! - FireEye</a>
 
-<a href="https://en.wikipedia.org/wiki/Maltego" target="_blank">Maltego - Wikipedia</a>
+- <a href="https://en.wikipedia.org/wiki/Maltego" target="_blank">Maltego - Wikipedia</a>
 
-<a href="https://www.netresec.com/?page=NetworkMiner" target="_blank">NetworkMiner - The NSM and Network Forensics Analysis Tool</a>
+- <a href="https://www.netresec.com/?page=NetworkMiner" target="_blank">NetworkMiner - The NSM and Network Forensics Analysis Tool</a>
 
-<a href="https://ns1.com/resources/dns-retransmission" target="_blank">DNS Retransmission - NS1</a>
+- <a href="https://ns1.com/resources/dns-retransmission" target="_blank">DNS Retransmission - NS1</a>
 
-<a href="https://www.snort.org/" target="_blank">Snort 3 Is Available!</a>
+- <a href="https://www.snort.org/" target="_blank">Snort 3 Is Available!</a>
 
