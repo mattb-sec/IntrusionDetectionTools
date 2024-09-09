@@ -1,5 +1,5 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
+title: Intrusion Detection Tools
+description: Reacquainting with SimSpace, demonstrating an ICMP stream, and analyzing tools for intrusion detection
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
